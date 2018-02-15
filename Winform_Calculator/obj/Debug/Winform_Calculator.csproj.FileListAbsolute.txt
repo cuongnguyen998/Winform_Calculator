@@ -1,0 +1,9 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\bin\Debug\Winform_Calculator.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\bin\Debug\Winform_Calculator.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\bin\Debug\Winform_Calculator.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\obj\Debug\Winform_Calculator.csprojResolveAssemblyReference.cache
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\obj\Debug\Winform_Calculator.Form1.resources
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\obj\Debug\Winform_Calculator.Properties.Resources.resources
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\obj\Debug\Winform_Calculator.csproj.GenerateResource.Cache
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\obj\Debug\Winform_Calculator.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Winform_Calculator\Winform_Calculator\obj\Debug\Winform_Calculator.pdb
